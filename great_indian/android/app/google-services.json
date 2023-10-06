@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854112699280",
+    "project_id": "test-bdec4",
+    "storage_bucket": "test-bdec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854112699280:android:68d0f9432d90e5907b2915",
+        "android_client_info": {
+          "package_name": "com.example.great_indian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXB-XTG-lIUGfg3spKgMlkvR1A1qUOd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
